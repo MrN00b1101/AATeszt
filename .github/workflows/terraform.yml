@@ -93,4 +93,5 @@ jobs:
       run: terraform apply -auto-approve -input=false
 
     - name: Validate
-      run: sudo chmod +x validate.sh sudo ./validate.sh
+      run: sudo chmod +x validate.sh 
+    - run: sudo ./validate.sh
