@@ -9,5 +9,4 @@ variable "file_name" {
 resource "local_file" "myfile" {
   content = "This is my text"
   filename = format("%s/%s%s","..*",var.file_name,".txt")
-  filename = "../"+var.file_name+".txt"
 }
