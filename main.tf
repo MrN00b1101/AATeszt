@@ -15,7 +15,7 @@ resource "local_file" "variable_file" {
   filename = format("%s/%s%s","../",var.file_name,".txt")
 }
 resource "local_file" "count_file" {
-  count = var.file_count
+  count = 3
   content = {format("/%s%s","iteration: ",var.file_count)}
   filename =  {format("%s/%s%s","../",var.file_count,".txt")}
   
