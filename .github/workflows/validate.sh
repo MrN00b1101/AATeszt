@@ -1,1 +1,0 @@
-echo "ez megy"
