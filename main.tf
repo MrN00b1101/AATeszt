@@ -1,7 +1,7 @@
 output "test" {
   value = "test"
 }
-resource "local_file" "foo" {
-  content  = "foo!"
-  filename = "${path.module}/foo.bar"
+resource "local_file" "myfile" {
+  content = "This is my text"
+  filename = "../mytextfile.txt"
 }
