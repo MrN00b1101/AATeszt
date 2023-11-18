@@ -95,4 +95,4 @@ jobs:
     - name: Validate
       run: sudo chmod +x validate.sh 
     - name: Validate
-    - run: sudo ./validate.sh
+      run: sudo ./validate.sh
