@@ -1,5 +1,12 @@
-
+variable "file_count" {
+  type = number
+  default = 3
+}
+ariable "file_name" {
+  type        = string
+  default = "teszt001"
+}
 resource "local_file" "myfile" {
   content = "This is my text"
-  filename = "../mytextfile.txt"
+  filename = "../"+var.file_name+".txt"
 }
