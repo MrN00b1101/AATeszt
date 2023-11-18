@@ -1,6 +1,6 @@
 #!/bin/bash
     # Check if specific files exist
-    if [ -f "./1.txt" ] && [ -f "./2.txt" ]; then
+    if [ -f "../1.txt" ] && [ -f "../2.txt" ]; then
         echo "Validation successful. All required files exist."
         exit 0  # Exit with success status
     else
