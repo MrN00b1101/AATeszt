@@ -1,4 +1,8 @@
 #   System design
+
+
+
+#  [System design](https://github.com/MrN00b1101/AATeszt/blob/main/System_designe.md)
   
 GitHub Actions is a platform for automating workflows, including continuous integration (CI) and continuous deployment (CD). It allows you to define custom workflows using YAML syntax, and these workflows can be triggered by various events, such as pushes to a repository, pull requests, or the creation of tags.
 
