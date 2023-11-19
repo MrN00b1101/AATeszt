@@ -1,3 +1,7 @@
+<img src="https://github.com/MrN00b1101/AATeszt/blob/main/pngwing.com.png" alt="Team logo" style="height: 300px; width:100%;"/>
+
+
+
 #   System design
 
 
