@@ -8,6 +8,7 @@
   | [Pipeline workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pipeline_workflow.md)
   | [Pull request approval workflow](https://github.com/MrN00b1101/AATeszt/blob/main/documentation/pull_request_aproval_workflow.md)
 ***
+Welcome!
 Ide kellene valami összefoglaló/bemutatkozó szöveg ... Valaki írjon valamit, szöveg alkotáshoz nem értek!
 
 ***  
